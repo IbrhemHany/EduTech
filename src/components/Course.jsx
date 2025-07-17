@@ -27,8 +27,7 @@ function Course({img,department,title,rating,description,sales,price,discount,du
 
       </div>
       
-      
-      
+
       
     </div>
   )

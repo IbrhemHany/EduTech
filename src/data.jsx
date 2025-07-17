@@ -32,7 +32,7 @@ export const datacard=[
 export const coursesdata =[
     {
         id:1,
-        img:"./public/download.png",
+        img:"/download.png",
         department:"Web development",
         title:" React js",
         rating:"4.8",
@@ -46,7 +46,7 @@ export const coursesdata =[
     },
     {
         id:2,
-        img:"./public/download (1).png",
+        img:"/download (1).png",
         department:" Data Science",
         title:" Power Bi",
         rating:"4.5",
@@ -60,7 +60,7 @@ export const coursesdata =[
     },
     {
         id:3,
-        img:"./public/download.jpeg",
+        img:"/download.jpeg",
         department:"Cyber Security",
         title:"Kali Linux",
         rating:"3.9",
@@ -78,7 +78,7 @@ export const ratindata =[
     {
         id:1,
         stars:5,
-        img:"./public/download (1).jpeg",
+        img:"/download (1).jpeg",
         description:"The campus is full of stunning buildings and architecture.",
         name:"Katherine Mackay",
         job:"Data scientist"
@@ -86,7 +86,7 @@ export const ratindata =[
     {
         id:2,
         stars:4,
-        img:"./public/download (2).jpeg",
+        img:"/download (2).jpeg",
         description:"The atmosphere and other peers. Tutor support and access to all the resources.",
         name:"Laura Leebody",
         job:" software Engineer"
@@ -94,7 +94,7 @@ export const ratindata =[
     {
         id:3,
         stars:3,
-        img:"./public/download (3).jpeg",
+        img:"/download (3).jpeg",
         description:"It's been great studying here.Professors are nice and intelligent,also they understands International students' situation.",
         name:"Tiana Wainwright",
         job:"developer"
